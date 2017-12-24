@@ -7,7 +7,7 @@ from Product_Scraper import ProductsScraper
 
 def check_all_links_visited():
     mongo = MongoClient()
-    database = mongo['Macys_Scraper']
+    database = mongo['checking']
     link_collection = database['pants_product_links']
     item_collection = database['pants']
     item_collection_links = [doc['link'] for doc in item_collection.find()]
@@ -23,7 +23,7 @@ if __name__ == "__main__":
     Macys_Scraper()
     while not check_all_links_visited():
         mongo = MongoClient()
-        database = mongo['Macys_Scraper']
+        database = mongo['checking']
         link_collection = database['pants_product_links']
         item_collection = database['pants']
         display = Display(visible=0, size=(1500, 800))

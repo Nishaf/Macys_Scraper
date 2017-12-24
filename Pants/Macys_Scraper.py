@@ -28,7 +28,7 @@ class Macys_Scraper:
 
     def refine_links_collection(self):
         mongo = MongoClient()
-        db = mongo['Macys_Scraper']
+        db = mongo['checking']
         link_col = db['pants_product_links']
         item_col = db['pants']
         item_col_links = [doc['link'] for doc in item_col.find()]
@@ -61,7 +61,7 @@ class Macys_Scraper:
 
     def save_product_links(self):
         mongo = MongoClient()
-        db = mongo["Macys_Scraper"]
+        db = mongo["checking"]
         soup = BeautifulSoup(self.driver.page_source)
 
         for item in self.driver.find_elements_by_xpath("//ul[@class='items large-block-grid-3']/li/div/div/a"):
@@ -72,6 +72,7 @@ class Macys_Scraper:
 
     def run(self):
         for i in self.urls:
+            print(i)
             self.driver.get(i)
             self.get_all_products()
         self.refine_links_collection()
