@@ -11,7 +11,7 @@ class Macys_Scraper:
             "https://www.macys.com/shop/womens-clothing/womens-pants/Brand/Michael%20Kors%7Cadidas%7CPuma%7CReebok%7CUnder%20Armour?id=157&EFCKEY=%7B%22EXPERIMENT%22%3A%5B%222525%22%2C%222554%22%2C%222244%22%5D%7D",
         ]
         self.display = Display(visible=0, size=(1500, 800))
-        #self.display.start()
+        self.display.start()
         self.mongo = MongoClient()
         self.driver = webdriver.Chrome()
         self.driver.implicitly_wait(20)

@@ -27,7 +27,7 @@ if __name__ == "__main__":
         link_collection = database['pants_product_links']
         item_collection = database['pants']
         display = Display(visible=0, size=(1500, 800))
-        #display.start()
+        display.start()
         mongo = MongoClient()
         driver = webdriver.Chrome()
         driver.implicitly_wait(20)
