@@ -29,7 +29,7 @@ if __name__ == "__main__":
         display = Display(visible=0, size=(1500, 800))
         #display.start()
         mongo = MongoClient()
-        driver = webdriver.Chrome('/home/nishaf/PycharmProjects/Forever21_Scraper/chromedriver')
+        driver = webdriver.Chrome()
         driver.implicitly_wait(20)
         count = 0
         item_count = 1

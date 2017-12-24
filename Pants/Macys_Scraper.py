@@ -13,7 +13,7 @@ class Macys_Scraper:
         self.display = Display(visible=0, size=(1500, 800))
         #self.display.start()
         self.mongo = MongoClient()
-        self.driver = webdriver.Chrome('/home/nishaf/PycharmProjects/Forever21_Scraper/chromedriver')
+        self.driver = webdriver.Chrome()
         self.driver.implicitly_wait(20)
         self.run()
         self.driver.close()
