@@ -1,0 +1,172 @@
+1503155516472	geckodriver	INFO	geckodriver 0.18.0
+1503155516474	geckodriver	INFO	Listening on 127.0.0.1:35383
+1503155517679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503155523137	Marionette	INFO	Enabled via --marionette
+1503155529709	Marionette	INFO	Listening on port 33125
+1503155529728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503155529773	Marionette	DEBUG	loaded listener.js
+1503155529802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503155532621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503155532621	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.btstatic.com/tag.js, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503155540330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155540337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155540347	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155541813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=4411503615;ord=1;prd="
+1503155541815	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=4411503615;ord=1;prd="
+1503155541816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4533637;u12=MICHAEL%20Michael%20Kors%20Layered-Look%20Top;ord=3337401153976.5024;prd="
+1503155541817	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4533637;u12=MICHAEL%20Michael%20Kors%20Layered-Look%20Top;ord=3337401153976.5024;prd="
+1503155542001	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155542370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5564419411826465343J&l=true"
+1503155542984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4533637&sit=macys.com&pty=pp&pce=0"
+1503155542987	Marionette	DEBUG	Received DOM event "pageshow" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4533637&sit=macys.com&pty=pp&pce=0"
+JavaScript warning: https://s.btstatic.com/tag.js line 8 > eval, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503155546078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155546096	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155547098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155547104	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155547229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gum.criteo.com/syncframe"
+1503155547230	Marionette	DEBUG	Received DOM event "pageshow" for "https://gum.criteo.com/syncframe"
+1503155548140	Marionette	DEBUG	Received DOM event "pageshow" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5564419411826465343J&l=true"
+1503155548152	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155548423	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503155548507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503155551974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503216579788	geckodriver	INFO	geckodriver 0.18.0
+1503216580087	geckodriver	INFO	Listening on 127.0.0.1:60834
+1503216581393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503216582874	Marionette	INFO	Enabled via --marionette
+1503216588056	Marionette	INFO	Listening on port 44407
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503216588339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503216588375	Marionette	DEBUG	loaded listener.js
+1503216588399	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503216590015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503216590015	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503216590416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1503216590578	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+1503216680100	geckodriver	INFO	geckodriver 0.18.0
+1503216680103	geckodriver	INFO	Listening on 127.0.0.1:38967
+1503216681194	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503216682280	Marionette	INFO	Enabled via --marionette
+1503216685266	Marionette	INFO	Listening on port 34130
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503216685359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503216685405	Marionette	DEBUG	loaded listener.js
+1503216685430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503216687187	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503216687187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.btstatic.com/tag.js, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503216695228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216695265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216695268	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216696220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=1865176862;ord=1;prd="
+1503216696222	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=1865176862;ord=1;prd="
+1503216696463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4533637;u12=MICHAEL%20Michael%20Kors%20Layered-Look%20Top;ord=2512762775133.7065;prd="
+1503216696465	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4533637;u12=MICHAEL%20Michael%20Kors%20Layered-Look%20Top;ord=2512762775133.7065;prd="
+1503216696872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4533637&sit=macys.com&pty=pp&pce=0"
+1503216696876	Marionette	DEBUG	Received DOM event "pageshow" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4533637&sit=macys.com&pty=pp&pce=0"
+1503216696902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216697177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5565030961075984235J&l=true"
+JavaScript warning: https://s.btstatic.com/tag.js line 8 > eval, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503216699831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216699835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216699838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216699839	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216700622	Marionette	DEBUG	Received DOM event "pageshow" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5565030961075984235J&l=true"
+1503216701632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gum.criteo.com/syncframe"
+1503216701634	Marionette	DEBUG	Received DOM event "pageshow" for "https://gum.criteo.com/syncframe"
+1503216703607	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-layered-look-top?ID=4533637&CategoryID=255"
+1503216703912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503216707358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503219848963	geckodriver	INFO	geckodriver 0.18.0
+1503219848966	geckodriver	INFO	Listening on 127.0.0.1:36371
+1503219850059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503219851104	Marionette	INFO	Enabled via --marionette
+1503219854074	Marionette	INFO	Listening on port 45378
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503219854189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503219854225	Marionette	DEBUG	loaded listener.js
+1503219854261	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503219856289	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503219856289	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.btstatic.com/tag.js, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503219864160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219864201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219864207	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219865238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=5317351895;ord=1;prd="
+1503219865239	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=5317351895;ord=1;prd="
+1503219865853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4584266;u12=MICHAEL%20Michael%20Kors%20Split-Sleeve%20Grommeted%20Top,%20a%20Macy's%20Exclusive%20Style;ord=1011776651358.2505;prd="
+1503219865856	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4584266;u12=MICHAEL%20Michael%20Kors%20Split-Sleeve%20Grommeted%20Top,%20a%20Macy's%20Exclusive%20Style;ord=1011776651358.2505;prd="
+1503219866257	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219866530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4584266&sit=macys.com&pty=pp&pce=0"
+1503219866532	Marionette	DEBUG	Received DOM event "pageshow" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4584266&sit=macys.com&pty=pp&pce=0"
+1503219866643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5565062661974927528J&l=true"
+JavaScript warning: https://s.btstatic.com/tag.js line 8 > eval, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503219868892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://macys.ugc.bazaarvoice.com/7129-nowrite/crossdomain.htm?format=embedded#origin=https%3A%2F%2Fwww.macys.com"
+1503219869940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219869943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219869954	Marionette	DEBUG	Received DOM event "pageshow" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5565062661974927528J&l=true"
+1503219870012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219870014	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503219870312	Marionette	DEBUG	Received DOM event "pageshow" for "https://macys.ugc.bazaarvoice.com/7129-nowrite/crossdomain.htm?format=embedded#origin=https%3A%2F%2Fwww.macys.com"
+1503219871146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gum.criteo.com/syncframe"
+1503219871148	Marionette	DEBUG	Received DOM event "pageshow" for "https://gum.criteo.com/syncframe"
+1503219873456	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+JavaScript error: https://assets.macysassets.com/navapp/web20/assets/combo/global.tiles.bootstrap_script-min.js?timenow=201707200953, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://libs.coremetrics.com/v4.18.130/eluminate.js?timenow=201707200953, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 11834] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1503220245794	geckodriver	INFO	geckodriver 0.18.0
+1503220245796	geckodriver	INFO	Listening on 127.0.0.1:56733
+1503220246891	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503220247795	Marionette	INFO	Enabled via --marionette
+1503220250835	Marionette	INFO	Listening on port 39739
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503220250905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503220250944	Marionette	DEBUG	loaded listener.js
+1503220250970	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503220253617	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503220253617	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.btstatic.com/tag.js, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503220263682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220263685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220263697	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220265247	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=3199721163;ord=1;prd="
+1503220265249	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=alluniqu;num=3199721163;ord=1;prd="
+1503220265250	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4584266;u12=MICHAEL%20Michael%20Kors%20Split-Sleeve%20Grommeted%20Top,%20a%20Macy's%20Exclusive%20Style;ord=4754570363097.696;prd="
+1503220265252	Marionette	DEBUG	Received DOM event "pageshow" for "https://3856256.fls.doubleclick.net/activityi;src=3856256;type=macys001;cat=macys520;u1=255;u2=4584266;u12=MICHAEL%20Michael%20Kors%20Split-Sleeve%20Grommeted%20Top,%20a%20Macy's%20Exclusive%20Style;ord=4754570363097.696;prd="
+1503220265909	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220265914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4584266&sit=macys.com&pty=pp&pce=0"
+1503220265918	Marionette	DEBUG	Received DOM event "pageshow" for "https://img.pulsemgr.com/px/?srh=undefined&y29=l27&ptnr=30089&pid=4584266&sit=macys.com&pty=pp&pce=0"
+1503220266293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5565066652099777263J&l=true"
+JavaScript warning: https://s.btstatic.com/tag.js line 8 > eval, line 11: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1503220270471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://macys.ugc.bazaarvoice.com/7129-nowrite/crossdomain.htm?format=embedded#origin=https%3A%2F%2Fwww.macys.com"
+1503220270520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220270523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220270524	Marionette	DEBUG	Received DOM event "pageshow" for "https://px.owneriq.net/eps?pt=macys&pid=521&uid=Q5565066652099777263J&l=true"
+1503220271508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220271513	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220272076	Marionette	DEBUG	Received DOM event "pageshow" for "https://macys.ugc.bazaarvoice.com/7129-nowrite/crossdomain.htm?format=embedded#origin=https%3A%2F%2Fwww.macys.com"
+1503220272705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220272708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220275915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gum.criteo.com/syncframe"
+1503220275918	Marionette	DEBUG	Received DOM event "pageshow" for "https://gum.criteo.com/syncframe"
+1503220275930	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.macys.com/shop/product/michael-michael-kors-split-sleeve-grommeted-top-a-macys-exclusive-style?ID=4584266&CategoryID=255"
+1503220531537	geckodriver	INFO	geckodriver 0.18.0
+1503220531540	geckodriver	INFO	Listening on 127.0.0.1:50841
+1503220577827	geckodriver	INFO	geckodriver 0.18.0
+1503220577830	geckodriver	INFO	Listening on 127.0.0.1:46817
