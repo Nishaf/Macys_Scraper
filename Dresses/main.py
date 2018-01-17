@@ -2,9 +2,7 @@ from Dresses.Macys_Scraper import Macys_Scraper
 from pymongo import MongoClient
 from pyvirtualdisplay import Display
 from selenium import webdriver
-
 from Dresses.Product_Scraper import ProductsScraper
-
 
 def check_all_links_visited():
     mongo = MongoClient()
